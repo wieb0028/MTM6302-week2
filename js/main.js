@@ -21,4 +21,15 @@ console.log(myProfession)
 
 /* An array */
 const myScore = [56, 76, 98]
-console.log(myScore)
+console.log(myScore[1])
+
+let num =10
+num += 2
+console.log(num)
+
+console.log(num == "12")
+console.log(num > 90)
+console.log(!(num !== 90))
+
+console.log(num >= 7 && num !== 12)
+console.log(num >= 7 || num !== 12)
