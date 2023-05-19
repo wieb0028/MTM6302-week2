@@ -35,3 +35,10 @@ console.log(!(num !== 90))
 
 console.log(num >= 7 && num !== 12)
 console.log(num >= 7 || num !== 12)
+
+const pets = 2;
+const pet1Name = "Simba"
+const pet2Name = "Bufi"
+console.log("i have " +pets+ " dogs, " + pet1Name + " and " + pet2Name)
+
+console.log(`I have ${pets} dogs, ${pet1Name} and ${pet2Name}`)
