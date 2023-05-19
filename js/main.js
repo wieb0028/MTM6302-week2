@@ -29,6 +29,8 @@ console.log(num)
 
 console.log(num == "12")
 console.log(num > 90)
+// !== will be true if the two sides are not equal
+// ! in front of an expression will negate the result 
 console.log(!(num !== 90))
 
 console.log(num >= 7 && num !== 12)
